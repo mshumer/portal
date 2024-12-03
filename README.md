@@ -1,4 +1,4 @@
-# nav-answers
+# Portal
 
 Simple repo demonstrating a new approach to AI-first answers engines. Current approaches are great when you're asking a question, but many Google queries are navigation-focused. Answers engines aren't useful here, and switching between Google and Perplexity, depending on what you're doing, is very annoying.
 
